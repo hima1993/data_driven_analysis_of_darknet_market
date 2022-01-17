@@ -1,3 +1,5 @@
 abaraxas_tx.zip filter=lfs diff=lfs merge=lfs -text
 middle_tx.zip filter=lfs diff=lfs merge=lfs -text
 nuclues_tx.zip filter=lfs diff=lfs merge=lfs -text
+sheep_tx.zip filter=lfs diff=lfs merge=lfs -text
+pandora_tx.zip filter=lfs diff=lfs merge=lfs -text
